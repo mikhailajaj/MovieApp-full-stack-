@@ -19,7 +19,6 @@ This is the backend for MyMoviesApp, built with the .NET Framework and hosted on
 
 - .NET Framework for the REST API
 - Entity Framework for ORM
-- Azure SQL Database for data storage
 
 ## Contributing
 
