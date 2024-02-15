@@ -1,0 +1,11 @@
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/MovieAppAPI
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/appsettings.json
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/MovieAppAPI.dll
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/MovieAppAPI.deps.json
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/MovieAppAPI.runtimeconfig.json
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/MovieAppAPI.pdb
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mikha2il3ajaj/Development/API/MovieAppAPI/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

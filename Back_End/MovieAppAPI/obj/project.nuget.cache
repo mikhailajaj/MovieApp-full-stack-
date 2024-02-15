@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kViw4VkU2M7aX29zyruz6vJyWjzCzfEuEmc5+UV1AjDfpKXRt6R6Wnvskn2O1/rZ9XWHlb0qP5gBxuVvN8DF7g==",
+  "success": true,
+  "projectFilePath": "/Users/mikha2il3ajaj/Development/API/MovieAppAPI/MovieAppAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mikha2il3ajaj/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mikha2il3ajaj/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mikha2il3ajaj/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/mikha2il3ajaj/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/mikha2il3ajaj/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/mikha2il3ajaj/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
